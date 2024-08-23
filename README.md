@@ -6,6 +6,8 @@ Data Science Enthusiast | Aspiring Data Scientist
 
 🚀 Self-taught data science enthusiast fueled by a passion for extracting valuable insights from data. I believe that with enough persistence, even the most complex datasets will reveal their secrets. Eager to tackle challenging problems and collaborate with like-minded individuals.Let's work together to uncover the hidden stories within data.
 
+<img align="right" width="570" height="490" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
+
 * ✉️  You can contact me at [soundaryabaskaran.ds@gmail.com](mailto:soundaryabaskaran.ds@gmail.com)
 * 🧠  I'm currently deepening my knowledge in Machine Learning.
 * 🤝  I'm open to collaborating with like-minded individuals
