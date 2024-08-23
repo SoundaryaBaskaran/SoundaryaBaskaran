@@ -6,10 +6,10 @@ Data Science Enthusiast | Aspiring Data Scientist
 
 🚀 Self-taught data science enthusiast fueled by a passion for extracting valuable insights from data. I believe that with enough persistence, even the most complex datasets will reveal their secrets. Eager to tackle challenging problems and collaborate with like-minded individuals.Let's work together to uncover the hidden stories within data.
 
-
 * ✉️  You can contact me at [soundaryabaskaran.ds@gmail.com](mailto:soundaryabaskaran.ds@gmail.com)
-* 🧠  I'm currently deepening my knowledge in Machine Learning.
-* 🤝  I'm open to collaborating with like-minded individuals
+* 🧠  I'm learning currently deepening my knowledge in Machine Learning.
+* 🤝  I'm open to collaborating on Collaborating with like-minded individuals
+
 
 
 ### Skills
@@ -28,8 +28,7 @@ Data Science Enthusiast | Aspiring Data Scientist
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SoundaryaBaskaran"><img src="https://github-readme-stats.vercel.app/api?username=SoundaryaBaskaran&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SoundaryaBaskaran's GitHub stats" /></a>
+<a href="http://www.github.com/SoundaryaBaskaran"><img src="https://github-readme-stats.vercel.app/api?username=SoundaryaBaskaran&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="SoundaryaBaskaran's GitHub stats" /></a>
 
-<a href="http://www.github.com/SoundaryaBaskaran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoundaryaBaskaran&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SoundaryaBaskaran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoundaryaBaskaran&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/SoundaryaBaskaran"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SoundaryaBaskaran&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
