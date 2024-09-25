@@ -17,7 +17,7 @@ Data Science Enthusiast | Aspiring Data Scientist
 
 <h2>Click to View: </h2>
 <p align="left">
-<a href=https://www.linkedin.com/in/soundaryabaskaran/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-lightblue" alt="LinkedIn" width="90" height="30"/> </a>&nbsp
+<a href=[https://www.linkedin.com/in/soundaryabaskaran/](https://www.linkedin.com/in/soundaryabaskaran/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-lightblue" alt="LinkedIn" width="90" height="30"/> </a>&nbsp
 <a href="https://medium.com/@soundarya_baskaran" target="blank"><img src="https://img.shields.io/badge/Medium(Blog)-black" alt="Medium" width="125" height="30"/></a>
 <a href="https://www.kaggle.com/soundaryabaskar" target="blank"><img src="https://img.shields.io/badge/Kaggle-blue" alt="Kaggle" width="125" height="30"/></a>
 
