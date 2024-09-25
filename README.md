@@ -8,6 +8,9 @@ Data Science Enthusiast | Aspiring Data Scientist
 
 <img align="right" height="400" width="500" src="https://user-images.githubusercontent.com/62280849/128852791-6fb73a65-29a6-4c5e-84c5-e8372ac2bd77.gif">
 
+<a href="https://soundaryabaskaran.github.io/Portfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio%20Website%20(Click%20here)-light%20red" alt="Website" width="260" height="30"/></a>
+
+
 * ✉️  You can contact me at [soundaryabaskaran.ds@gmail.com](mailto:soundaryabaskaran.ds@gmail.com)
 * 🧠  I'm currently deepening my knowledge in Machine Learning.
 * 🤝  I'm open to collaborating with like-minded individuals
