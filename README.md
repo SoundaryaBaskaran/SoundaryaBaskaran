@@ -34,6 +34,8 @@ Data Science Enthusiast | Aspiring Data Scientist
  <img src="https://img.shields.io/badge/Scikit%20learn-orange" alt="sklearn" width="100" height="30"/>
  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"  width="100" height="30"/>
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"  width="100" height="30"/>
+ <img src="https://img.shields.io/badge/NLTK-lightblue" alt="nltk" width="70" height="30"/>
+
  </p>
 
 💻 *IDE's*:
