@@ -12,31 +12,39 @@ Data Science Enthusiast | Aspiring Data Scientist
 
 
 * ✉️  You can contact me at [soundaryabaskaran.ds@gmail.com](mailto:soundaryabaskaran.ds@gmail.com)
-* 🧠  I'm currently deepening my knowledge in Machine Learning.
+* 🧠  I’m currently learning about prompt engineering.
 * 🤝  I'm open to collaborating with like-minded individuals
 
-
-
-### Languages and Tools:
-
-
+<h2>Click to View: </h2>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/visual-studio.png" alt="visual-studio"/>
+<a href=https://www.linkedin.com/in/soundaryabaskaran/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-lightblue" alt="LinkedIn" width="90" height="30"/> </a>&nbsp
+<a href="https://medium.com/@soundarya_baskaran" target="blank"><img src="https://img.shields.io/badge/Medium(Blog)-black" alt="Medium" width="125" height="30"/></a>
+<a href="https://www.kaggle.com/soundaryabaskar" target="blank"><img src="https://img.shields.io/badge/Kaggle-blue" alt="Kaggle" width="125" height="30"/></a>
+
+
+💻 *Programming languages & libraries*: 
+
+<p align="left"> 
+ <img src="https://img.shields.io/badge/Python-blue" alt="python" width="70" height="30"/> 
+ <img src="https://img.shields.io/badge/Pandas-purple" alt="pandas" width="70" height="30"/>
+ <img src="https://img.shields.io/badge/NumPy-darkgreen" alt="numpy" width="70" height="30"/>
+ <img src="https://img.shields.io/badge/Matplotlib-lightblue" alt="matplotlib" width="90" height="30"/>
+ <img src="https://img.shields.io/badge/Seaborn-lightblue" alt="seaborn" width="70" height="30"/>
+ <img src="https://img.shields.io/badge/Scikit%20learn-orange" alt="sklearn" width="100" height="30"/>
+ <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"  width="100" height="30"/>
+ <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"  width="100" height="30"/>
+ </p>
+
+💻 *IDE's*:
+ <p align="left">
+<img src="https://img.shields.io/badge/VS%20Code-blue" alt="VS Code" width="80" height="30"/> 
+<img src="https://img.shields.io/badge/Jupyter-orange" alt="Jupyter" width="70" height="30"/>
+<img src="https://img.shields.io/badge/PyCharm-darkgreen" alt="PyCharm" width="80" height="30"/> 
+<img src="https://img.shields.io/badge/Spyder-green" alt="Spyder" width="80" height="30"/> 
+<img src="https://img.shields.io/badge/Google%20colab-orange" alt="Google Colab" width="130" height="30"/>
+  
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/SoundaryaBaskaran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
-<a href="http://www.github.com/SoundaryaBaskaran"><img src="https://github-readme-stats.vercel.app/api?username=SoundaryaBaskaran&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="SoundaryaBaskaran's GitHub stats" /></a>
-
-<a href="http://www.github.com/SoundaryaBaskaran"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoundaryaBaskaran&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavya2099&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true">
 
