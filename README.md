@@ -6,8 +6,8 @@ Data Science Enthusiast | Aspiring Data Scientist
 
 🚀 Self-taught data science enthusiast fueled by a passion for extracting valuable insights from data. I believe that with enough persistence, even the most complex datasets will reveal their secrets. Eager to tackle challenging problems and collaborate with like-minded individuals.Let's work together to uncover the hidden stories within data.
 
+<img align="right" height="400" width="500" src="https://raw.githubusercontent.com/SoundaryaBaskaran/SoundaryaBaskaran/refs/heads/main/DALL%C2%B7E%202024-09-25%2010.59.42%20-%20A%20scene%20featuring%20a%20girl%20working%20at%20an%20office%20desk%20with%20a%20laptop%2C%20surrounded%20by%20office%20items%20such%20as%20notebooks%2C%20pens%2C%20and%20a%20coffee%20cup.%20In%20the%20backgro.webp">
 
-<img align="right" height="400" width="500" src="https://raw.githubusercontent.com/SoundaryaBaskaran/SoundaryaBaskaran/refs/heads/main/Designer%20(14).png">
 
 <a href="https://soundaryabaskaran.github.io/Portfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio%20Website%20(Click%20here)-light%20red" alt="Website" width="260" height="30"/></a>
 
