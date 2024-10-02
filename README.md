@@ -35,9 +35,7 @@ Data Science Enthusiast | Aspiring Data Scientist
  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"  width="100" height="30"/>
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"  width="100" height="30"/>
  <img src="https://img.shields.io/badge/NLTK-lightblue" alt="nltk" width="70" height="30"/>
- <img src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" width="100" height="30"/> 
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+ 
  </p>
 
 💻 *IDE's*:
