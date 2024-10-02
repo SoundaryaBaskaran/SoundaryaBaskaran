@@ -23,7 +23,7 @@ Data Science Enthusiast | Aspiring Data Scientist
 <a href="https://www.kaggle.com/soundaryabaskar" target="blank"><img src="https://img.shields.io/badge/Kaggle-blue" alt="Kaggle" width="125" height="30"/></a>
 
 
-💻 *Programming languages & libraries*: 
+💻 *Technologies & libraries*: 
 
 <p align="left"> 
  <img src="https://img.shields.io/badge/Python-blue" alt="python" width="70" height="30"/> 
@@ -35,7 +35,11 @@ Data Science Enthusiast | Aspiring Data Scientist
  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"  width="100" height="30"/>
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"  width="100" height="30"/>
  <img src="https://img.shields.io/badge/NLTK-lightblue" alt="nltk" width="70" height="30"/>
- 
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"  width="100" height="30"/>
+ <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"  width="100" height="30"/>
+ <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"  width="100" height="30"/>
+ <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"  width="100" height="30"/>
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  width="100" height="30"/>
  </p>
 
 💻 *IDE's*:
