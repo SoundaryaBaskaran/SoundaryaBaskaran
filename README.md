@@ -23,7 +23,7 @@ Data Science Enthusiast | Aspiring Data Scientist
 <a href="https://www.kaggle.com/soundaryabaskar" target="blank"><img src="https://img.shields.io/badge/Kaggle-blue" alt="Kaggle" width="125" height="30"/></a>
 
 
-💻 *Technologies & libraries*: 
+## 💻 *Technologies & libraries*: 
 
 <p align="left"> 
  <img src="https://img.shields.io/badge/Python-blue" alt="python" width="70" height="30"/> 
@@ -42,7 +42,7 @@ Data Science Enthusiast | Aspiring Data Scientist
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"  width="100" height="30"/>
  </p>
 
-💻 *IDE's*:
+## 💻 *IDE's*:
  <p align="left">
 <img src="https://img.shields.io/badge/VS%20Code-blue" alt="VS Code" width="80" height="30"/> 
 <img src="https://img.shields.io/badge/Jupyter-orange" alt="Jupyter" width="70" height="30"/>
